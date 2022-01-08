@@ -1,0 +1,14 @@
+.sliderContainer{
+
+}
+.slider{
+    height: max-content;
+    width: 950px;
+   margin-left: 18%;
+    padding: 10px 0;
+}
+.slider img{
+   height: 370px;
+   width: 90%;
+   
+}
